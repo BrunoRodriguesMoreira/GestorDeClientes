@@ -1,0 +1,8 @@
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe.config
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.pdb
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.AssemblyReference.cache
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.exe
+C:\Users\dotop\source\repos\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.pdb
